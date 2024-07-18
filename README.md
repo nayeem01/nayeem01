@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nayeem01&label=Profile%20views&color=0e75b6&style=flat" alt="nayeem01" /> </p>
 
-- 🌱 I’m currently working on [Micro-Ecommerce](https://github.com/nayeem01/Micro-ecommerce) project
 - 🔍 Open to Great job Offers!
 
 <h3 align="left">Connect with me:</h3>
