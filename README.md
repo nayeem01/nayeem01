@@ -1,5 +1,5 @@
 <h1 align="center">Hi <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>, I'm Nayeem Abdullah</h1>
-<h3 align="center">A Software Engineer</h3>
+<h3 align="center">A Software & Data Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nayeem01&label=Profile%20views&color=0e75b6&style=flat" alt="nayeem01" /> </p>
 
